@@ -1,6 +1,36 @@
 {
   "version": 1,
   "skills": {
+    "clean-davinci-dialogue": {
+      "source": "Forward-Future/alexs-davinci-editing-skills",
+      "sourceType": "github",
+      "skillPath": "skills/clean-davinci-dialogue/SKILL.md",
+      "computedHash": "7df4b64128aecb518c103a54075b52c7ad1d0075703061dcee078978e9dfd6d3"
+    },
+    "design-taste-frontend": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/taste-skill/SKILL.md",
+      "computedHash": "a5d2a6d7613d5f6665997cca26d5a3472c46a39857dd34ba3329212945da0dc7"
+    },
+    "edit-davinci-video": {
+      "source": "Forward-Future/alexs-davinci-editing-skills",
+      "sourceType": "github",
+      "skillPath": "skills/edit-davinci-video/SKILL.md",
+      "computedHash": "6f5847600e7022fd5a3825ab7d844a4543c4935364853d2a0274fe8d5f106fbe"
+    },
+    "emil-design-eng": {
+      "source": "emilkowalski/skills",
+      "sourceType": "github",
+      "skillPath": "skills/emil-design-eng/SKILL.md",
+      "computedHash": "51f2537e04d15911b41d78e2de24c36a0e26d41beae15e82a954fe5496a5eda9"
+    },
+    "first-cut-davinci-dialogue": {
+      "source": "Forward-Future/alexs-davinci-editing-skills",
+      "sourceType": "github",
+      "skillPath": "skills/first-cut-davinci-dialogue/SKILL.md",
+      "computedHash": "dbae215f62ba26fd2e5b8a3fae8c996268c7dd19edef930eff9c59e71cca14a8"
+    },
     "gsap-core": {
       "source": "greensock/gsap-skills",
       "sourceType": "github",
@@ -49,11 +79,65 @@
       "skillPath": "skills/gsap-utils/SKILL.md",
       "computedHash": "1ab2387f6e694718a4f1b5acf2a4ab16e1b884c3428adf5f6b26d830f00826cf"
     },
+    "higgsfield-brandkit": {
+      "source": "higgsfield-ai/skills",
+      "sourceType": "github",
+      "skillPath": "higgsfield-brandkit/SKILL.md",
+      "computedHash": "ea343415a2301a1338814d9ea621e92eae328a82809b3103ff9233b92b6d7441"
+    },
+    "higgsfield-generate": {
+      "source": "higgsfield-ai/skills",
+      "sourceType": "github",
+      "skillPath": "higgsfield-generate/SKILL.md",
+      "computedHash": "45867a1bfe18423cf8a204f4bdfc049cfc42591b276970efc1686b7c8a14b948"
+    },
+    "higgsfield-marketplace-cards": {
+      "source": "higgsfield-ai/skills",
+      "sourceType": "github",
+      "skillPath": "higgsfield-marketplace-cards/SKILL.md",
+      "computedHash": "2f4224ed16cbea584161cdc2c44b557b107ee2591f581aab9a637b2fc12a7dab"
+    },
+    "higgsfield-product-photoshoot": {
+      "source": "higgsfield-ai/skills",
+      "sourceType": "github",
+      "skillPath": "higgsfield-product-photoshoot/SKILL.md",
+      "computedHash": "931eec95c013842eb0b1fa63d021603e347bc069970d759f3182be1d423747e5"
+    },
+    "higgsfield-soul-id": {
+      "source": "higgsfield-ai/skills",
+      "sourceType": "github",
+      "skillPath": "higgsfield-soul-id/SKILL.md",
+      "computedHash": "f1393cf528c6cb7af39cbe3436e682094e80860f347988c81d311c333c6cd13f"
+    },
+    "higgsfield-video-explainer": {
+      "source": "higgsfield-ai/skills",
+      "sourceType": "github",
+      "skillPath": "higgsfield-video-explainer/SKILL.md",
+      "computedHash": "46d416b288a1705b487525c4d498f514736ce53b1b645a7801fbebf560d83e19"
+    },
+    "higgsfield-websites": {
+      "source": "higgsfield-ai/skills",
+      "sourceType": "github",
+      "skillPath": "higgsfield-websites/SKILL.md",
+      "computedHash": "81733258f15d2cac294371b495d284869eac3b84e2fd1fd8abd63a7b874ff202"
+    },
+    "higgsfield-youtube-thumbnail": {
+      "source": "higgsfield-ai/skills",
+      "sourceType": "github",
+      "skillPath": "higgsfield-youtube-thumbnail/SKILL.md",
+      "computedHash": "ebd5911481f73c90a3e931a6f7660b0e7a7e80d0d2fac82fe3e8d817239a4975"
+    },
     "make-interfaces-feel-better": {
       "source": "jakubkrehel/make-interfaces-feel-better",
       "sourceType": "github",
       "skillPath": "skills/make-interfaces-feel-better/SKILL.md",
       "computedHash": "c8b15b529e088a318b2d3c17f0a97e15a7b1ce9ddab8bbdf9209e6ab7315cbde"
+    },
+    "smooth-davinci-audio-cuts": {
+      "source": "Forward-Future/alexs-davinci-editing-skills",
+      "sourceType": "github",
+      "skillPath": "skills/smooth-davinci-audio-cuts/SKILL.md",
+      "computedHash": "00fc8b4a93dac8a5a1c320a54e17ad21424e09cb93205cc17925e61d271a8c1d"
     },
     "transitions-dev": {
       "source": "Jakubantalik/transitions.dev",
