@@ -1,0 +1,20 @@
+[
+  {
+    "file": "ashira-hero-original.png",
+    "dimensions": [
+      1440,
+      1000
+    ],
+    "bytes": 974003,
+    "sha256": "2b315e2a4e7d565eb3ef930a573e2d1cd9f330e6c767790ca153a7e4208e9994"
+  },
+  {
+    "file": "ashira-luminous-gradient.png",
+    "dimensions": [
+      2880,
+      2000
+    ],
+    "bytes": 2941783,
+    "sha256": "9246e67e7b9325f29c54e9bec577b991541b1bbb33d7946421f93bc3ec58d507"
+  }
+]

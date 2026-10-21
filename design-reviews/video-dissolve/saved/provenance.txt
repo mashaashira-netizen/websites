@@ -1,0 +1,10 @@
+Saved Ashira hero artwork — 21 October 2026
+
+ashira-hero-original.png is an exact byte-for-byte copy of the previously shared hero screenshot at /workspace/ashira-reference-hero/renders/desktop.png. It includes the original PRIVATE SESSIONS typography and navigation.
+
+ashira-luminous-gradient.png is a clean browser export of the same unchanged HTML composition at /workspace/ashira-reference-hero/index.html, rendered at 1440 × 1000 CSS pixels with device scale 2 (2880 × 2000 output pixels). Only page text, navigation, controls and other sections were temporarily hidden in the browser; source files and source artwork were not edited.
+
+The original particulate-body artwork comes from /workspace/ashira-motion-reference/assets/ashira-40.jpg, previously sourced from Ashira's own website. Its natural source dimensions remain 500 × 654; the clean export preserves the webpage's existing screen-blend treatment and gradient. No image generation or additional artwork processing was used.
+
+Browser capture source: http://127.0.0.1:3055/
+Reproducible capture script: capture-clean.mjs
