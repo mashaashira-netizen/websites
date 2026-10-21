@@ -1,0 +1,19 @@
+{
+  "name": "ashira-private-sessions",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Editorial private Tantra sessions page for Ashira Tantra, Philadelphia.",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "build": "node scripts/build.mjs",
+    "preview:single": "node scripts/standalone.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "gsap": "3.15.0"
+  }
+}

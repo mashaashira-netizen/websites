@@ -1,0 +1,8 @@
+/* Original @font-face declarations captured from https://www.ashiratantra.com/ CSSOM.
+   Source URLs remain on their original providers. No font binaries embedded or redistributed. */
+
+@font-face { font-family: "Archivo Narrow"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/36076074-9223-40d0-89c5-14310a01be48/latin.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: meno-banner; src: url("https://use.typekit.net/af/98b4c6/00000000000000007735d077/31/l?subset_id=2&fvd=n6&v=3") format("woff2"), url("https://use.typekit.net/af/98b4c6/00000000000000007735d077/31/d?subset_id=2&fvd=n6&v=3") format("woff"), url("https://use.typekit.net/af/98b4c6/00000000000000007735d077/31/a?subset_id=2&fvd=n6&v=3") format("opentype"); font-weight: 600; font-style: normal; font-stretch: normal; font-display: swap; }
+
+@font-face { font-family: meno-banner; src: url("https://use.typekit.net/af/ebe33d/00000000000000007735d07a/31/l?subset_id=2&fvd=i6&v=3") format("woff2"), url("https://use.typekit.net/af/ebe33d/00000000000000007735d07a/31/d?subset_id=2&fvd=i6&v=3") format("woff"), url("https://use.typekit.net/af/ebe33d/00000000000000007735d07a/31/a?subset_id=2&fvd=i6&v=3") format("opentype"); font-weight: 600; font-style: italic; font-stretch: normal; font-display: swap; }
