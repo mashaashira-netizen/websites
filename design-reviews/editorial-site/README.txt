@@ -19,6 +19,10 @@ The Tantra & Kundalini URL is saved, but bookingEnabled is deliberately false. E
 
 This integration is for Tantra & Kundalini only. Empty service URLs keep the availability message. Memberships use membershipUrl; conversations use conversationUrl; referrals use referralUrl. They never fall back to the single paid-session URL.
 
+Individual and couples sessions share the confirmed 2-hour/$460 offer and sessionUrl. Each offering has its own button, preserving the chosen audience. The featured single-session option and monthly/twice-monthly options also have direct inquiry controls. Introductory-call buttons always use conversationUrl and clear any previous membership selection. conversationUrl is still empty because no introductory-call calendar URL has been supplied; set it to the confirmed calendar when available. It does not fall back to the paid-session calendar.
+
+The hero and mobile booking bar's Explore Sessions controls scroll to #session-offerings. The final Begin Your Practice invitation retains the original conversation copy and audience controls. The 13 approved FAQs and client acknowledgment remain unchanged.
+
 BOOKING ACKNOWLEDGMENT — CONFIGURE IN TIDYCAL
 
 Before activating paid booking, configure the required acknowledgment in the booking provider's form, labeled "Client acknowledgment", with the exact text below. It must start unchecked and prevent submission until actively checked. The website does not create a duplicate booking form or custom checkout.
